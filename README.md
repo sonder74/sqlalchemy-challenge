@@ -6,6 +6,8 @@
  2. [Tools and Solutions](#tools-and-solutions)
  3. [Outcomes and Lessons Learned](#outcomes-and-lessons-learned)
 
+## Project Goals
+With this project, I was introduced to an entirely new method of data collection: <a href="https://apifriends.com/api-management/whats-api-call/#:~:text=Simply%20put%2C%20whenever%20you%20make,fact%20making%20an%20API%20call.&text=An%20API%20call%20is%20the,up%20and%20ready%20to%20go.">API calls</a>. In the initial stage of this challenge, I had to gather weather data from hundreds of cities around the globe by requesting it from <a href="https://openweathermap.org/">OpenWeatherMap.org</a>, a continuously updated climate website. I then had to visualize several different dimensions of the data, find key correlations, and apply conditional logic to identify cities with certain weather patterns.
 
 # SQLAlchemy Homework - Surfs Up!
 
