@@ -8,8 +8,6 @@
  3. [Outcomes and Lessons Learned](#outcomes-and-lessons-learned)
  4. [Coding Screenshots](#coding-screenshots)
 
-![precipitation](Images/precipitation.png)
-
 ## Project Goals
 With this project, I returned to the subect of global climate, beginning with the exploration and analysis of a large set of weather data. Once that analysis was complete and a new set of data tables created, I had to design queries using a methodology new to me: <a href="https://www.sqlalchemy.org/">SQLAlchemy</a>.
 
@@ -20,7 +18,9 @@ The first step in my data-gathering process was designing a connection to an <a 
 I loved this project! It drew together nearly all of the disciplines that our class has covered to date, and it was our first opportunity to make our own findings available to the web via Flask. I hope to use these tools more in the future. You can check out my code <a href="https://github.com/sonder74/sqlalchemy-challenge/blob/master/sqlalchemy-challenge.ipynb">here</a> and my Flask app <a href="https://github.com/sonder74/sqlalchemy-challenge/blob/master/climate.py">here</a>.
 
 ## Coding Screenshots
+![precipitation](Images/precipitation.png)
+<br>
 ![matplotlib_screenshot](screenshots/matplotlib_screenshot.png)
-<br><br>
+<br>
 ![flask_screnshot](screenshots/flask_screenshot.png)
 
