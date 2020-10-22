@@ -6,6 +6,7 @@
  1. [Project Goals](#project-goals)
  2. [Tools and Solutions](#tools-and-solutions)
  3. [Outcomes and Lessons Learned](#outcomes-and-lessons-learned)
+ 4. [Coding Screenshots](#coding-screenshots)
 
 ![precipitation](Images/precipitation.png)
 
@@ -17,3 +18,9 @@ The first step in my data-gathering process was designing a connection to an <a 
 
 ## Outcomes and Lessons Learned
 I loved this project! It drew together nearly all of the disciplines that our class has covered to date, and it was our first opportunity to make our own findings available to the web via Flask. I hope to use these tools more in the future. You can check out my code <a href="https://github.com/sonder74/sqlalchemy-challenge/blob/master/sqlalchemy-challenge.ipynb">here</a> and my Flask app <a href="https://github.com/sonder74/sqlalchemy-challenge/blob/master/climate.py">here</a>.
+
+## Coding Screenshots
+![matplotlib_screenshot](screenshots/matplotlib_screenshot.png)
+<br><br>
+![flask_screnshot](screenshots/flask_screenshot.png)
+
