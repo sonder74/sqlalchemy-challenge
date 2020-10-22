@@ -10,7 +10,8 @@
 With this project, I was introduced to an entirely new method of data collection: <a href="https://apifriends.com/api-management/whats-api-call/#:~:text=Simply%20put%2C%20whenever%20you%20make,fact%20making%20an%20API%20call.&text=An%20API%20call%20is%20the,up%20and%20ready%20to%20go.">API calls</a>. In the initial stage of this challenge, I had to gather weather data from hundreds of cities around the globe by requesting it from <a href="https://openweathermap.org/">OpenWeatherMap.org</a>, a continuously updated climate website. I then had to visualize several different dimensions of the data, find key correlations, and apply conditional logic to identify cities with certain weather patterns.
 
 ## Tools and Solutions
-These tasks called for a handful of familiar tools, like Python, Pandas, Matplotlib, and NumPy--but I also had to employ new ones, like <a href="https://www.json.org/json-en.html">JSON</a> and the <a href="https://requests.readthedocs.io/en/master/">Requests</a> library, both of which are useful when dealing with API calls
+These tasks called for a handful of familiar tools, like Python, Pandas, Matplotlib, and NumPy--but I also had to employ new ones, like <a href="https://www.json.org/json-en.html">JSON</a> and the <a href="https://requests.readthedocs.io/en/master/">Requests</a> library, both of which are useful when dealing with API calls.
+
 
 # SQLAlchemy Homework - Surfs Up!
 
