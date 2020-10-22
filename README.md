@@ -1,5 +1,5 @@
 
-# SQLAlchemy Challenge (Grade: A+)
+# SQLAlchemy Challenge | Grade: A+
  
 ### Table of Contents:
 
