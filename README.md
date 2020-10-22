@@ -7,9 +7,7 @@
  3. [Outcomes and Lessons Learned](#outcomes-and-lessons-learned)
 
 ## Project Goals
-With this project, I returned to the subect of global climate, beginning with the exploration and analysis of a large set of weather data 
-
-using Python and SQLAlchemy
+With this project, I returned to the subect of global climate, beginning with the exploration and analysis of a large set of weather data. Once that analysis was complete and a new set of data tables created, I had to design queries using a methodology new to me: <a href="https://www.sqlalchemy.org/">SQLAlchemy</a>.
 
 ## Tools and Solutions
 These tasks called for a handful of familiar tools, like Python, Pandas, Matplotlib, and NumPy--but I also had to employ new ones, like <a href="https://www.json.org/json-en.html">JSON</a> and the <a href="https://requests.readthedocs.io/en/master/">Requests</a> library, both of which are useful when dealing with API calls.
