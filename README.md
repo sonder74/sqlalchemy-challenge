@@ -1,5 +1,5 @@
 
-# Python-API-challenge
+# SQLAlchemy-challenge
 ### Table of Contents:
 
  1. [Project Goals](#project-goals)
