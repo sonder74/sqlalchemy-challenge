@@ -13,7 +13,7 @@ With this project, I was introduced to an entirely new method of data collection
 These tasks called for a handful of familiar tools, like Python, Pandas, Matplotlib, and NumPy--but I also had to employ new ones, like <a href="https://www.json.org/json-en.html">JSON</a> and the <a href="https://requests.readthedocs.io/en/master/">Requests</a> library, both of which are useful when dealing with API calls.
 
 ## Outcomes and Lessons Learned
-This was a tough one! I discovered how challenging working with APIs can be, but the data-gathering process became less frustrating the more I repeated it, understanding it better with every attempt. I discovered and plotted several linear regressions involving weather phenomena <a href="https://github.com/sonder74/python-api-challenge/blob/master/WeatherPy/WeatherPy.ipynb">here</a> and coded a Google Map showing "ideal" cities <a href="https://github.com/sonder74/python-api-challenge/blob/master/VacationPy/VacationPy.ipynb">here</a>
+This was a tough one! I discovered how challenging working with APIs can be, but the data-gathering process became less frustrating the more I repeated it, understanding it better with every attempt. I discovered and plotted several linear regressions involving weather phenomena <a href="https://github.com/sonder74/python-api-challenge/blob/master/WeatherPy/WeatherPy.ipynb">here</a> and coded a Google Map showing "ideal" cities <a href="https://github.com/sonder74/python-api-challenge/blob/master/VacationPy/VacationPy.ipynb">here</a>.
 
 
 # SQLAlchemy Homework - Surfs Up!
